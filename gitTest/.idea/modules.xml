@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/gitTest.iml" filepath="$PROJECT_DIR$/.idea/gitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xph-framework-parent/xph-framework-parent.iml" filepath="$PROJECT_DIR$/xph-framework-parent/xph-framework-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xph-govern-center/xph-govern-center.iml" filepath="$PROJECT_DIR$/xph-govern-center/xph-govern-center.iml" />
+    </modules>
+  </component>
+</project>
